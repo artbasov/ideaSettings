@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="TSQL" injector-id="xml">
+      <display-name>queryString</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("queryString")).withNamespace(string().equalTo("http://jasperreports.sourceforge.net/jasperreports"))]]></place>
+    </injection>
+  </component>
+</application>
