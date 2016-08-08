@@ -59,4 +59,17 @@
       </list>
     </option>
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://svn.reksoft.ru/svn/s112/branches/tagil">
+          <value>
+            <set>
+              <option value="C:\Users\ABasov\Documents\Projects\s112-branch" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
