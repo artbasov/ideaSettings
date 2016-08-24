@@ -62,6 +62,13 @@
             </set>
           </value>
         </entry>
+        <entry key="https://svn.reksoft.ru/svn/s112/branches/tagil-release-3.2.31">
+          <value>
+            <set>
+              <option value="C:\Users\ABasov\Documents\Projects\s112-branch" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
