@@ -52,4 +52,17 @@
     <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://svn.reksoft.ru/svn/s112/branches/tagil">
+          <value>
+            <set>
+              <option value="C:\Users\ABasov\Documents\Projects\s112-branch" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
