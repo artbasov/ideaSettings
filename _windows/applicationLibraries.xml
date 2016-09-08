@@ -927,10 +927,7 @@
     <library name="tomcat 7.0.61">
       <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/Downloads/apache-tomcat-7.0.61-src/java" />
-        <root url="file://$USER_HOME$/Downloads/apache-tomcat-7.0.61-src/modules/jdbc-pool/src/main/java" />
-      </SOURCES>
+      <SOURCES />
     </library>
   </component>
 </application>
