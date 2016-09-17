@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Module 's112-integration'" />
+    <option name="defaultScopeName" value="Module 's112-integration'" />
+    <option name="SEARCH_SCOPE" value="Module 's112-integration'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
