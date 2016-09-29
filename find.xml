@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="UI" />
-    <option name="defaultScopeName" value="UI" />
-    <option name="SEARCH_SCOPE" value="UI" />
+    <option name="customScope" value="File '[s112-core] - ...\s112-core\src\main\java\ru\reksoft\s112\core\bo\impl\IncidentTaskServiceImpl.java'" />
+    <option name="defaultScopeName" value="File '[s112-core] - ...\s112-core\src\main\java\ru\reksoft\s112\core\bo\impl\IncidentTaskServiceImpl.java'" />
+    <option name="SEARCH_SCOPE" value="File '[s112-core] - ...\s112-core\src\main\java\ru\reksoft\s112\core\bo\impl\IncidentTaskServiceImpl.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
