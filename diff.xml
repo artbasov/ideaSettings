@@ -20,13 +20,16 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.8767834" />
+          <option name="SPLITTER_PROPORTION" value="0.6869455" />
         </PlaceSettings>
       </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ApplyPatch">
+        <PlaceSettings />
+      </entry>
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
