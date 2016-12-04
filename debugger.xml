@@ -3,6 +3,7 @@
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_GETTERS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
@@ -62,9 +63,15 @@
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.aop.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
