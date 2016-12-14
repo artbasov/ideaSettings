@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[s112-core] - ...\s112-core\src\main\java\ru\reksoft\s112\core\bo\impl\gis\GisServiceImpl.java'" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
