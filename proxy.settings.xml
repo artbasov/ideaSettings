@@ -2,6 +2,7 @@
   <component name="HttpConfigurable">
     <option name="PROXY_HOST" value="proxy.reksoft.ru" />
     <option name="PROXY_PORT" value="3128" />
+    <option name="USE_PAC_URL" value="true" />
     <option name="PAC_URL" value="http://proxy.reksoft.ru/proxy/proxy.pac" />
   </component>
 </application>
