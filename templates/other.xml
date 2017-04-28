@@ -1,30 +1,7 @@
 <templateSet group="other">
-  <template name="log" value="private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger($CLASS$.class);" description="Inserts psf LOG field with Slf4j Logger with this class name logger" toReformat="true" toShortenFQNames="true">
-    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <template name="td" value="// TODO ABasov: $SELECTION$" description="Inserts TODO commentary item with current user name" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="GROOVY_DECLARATION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="opt" value="java.util.Optional.of($VAR$);" description="wrap variable into Optional" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR" expression="variableOfType(&quot;java.lang.Object&quot;)" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-    </context>
-  </template>
-  <template name="optn" value="java.util.Optional.ofNullable($VAR$);" description="wrap variable into nullable Optional" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR" expression="variableOfType(&quot;java.lang.Object&quot;)" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-    </context>
-  </template>
-  <template name="ifnn" value="if ($VAR$ != null) {&#10;$END$&#10;}" description="Inserts ''if not null'' statement" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
