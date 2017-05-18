@@ -13,9 +13,15 @@
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>!*.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*.pom</mask>
     </recentFileMasks>
   </component>
 </application>
