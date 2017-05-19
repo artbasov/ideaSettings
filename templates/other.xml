@@ -1,5 +1,6 @@
 <templateSet group="other">
-  <template name="td" value="// TODO ABasov: $SELECTION$" description="Inserts TODO commentary item with current user name" toReformat="false" toShortenFQNames="true">
+  <template name="td" value="// TODO $USER$: $SELECTION$" description="adds todo commentary entry with current author" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
