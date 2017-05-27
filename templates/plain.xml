@@ -1,8 +1,0 @@
-<templateSet group="plain">
-  <template name="td" value="// TODO $USER$:" description="adds todo commentary entry with current author" toReformat="false" toShortenFQNames="true">
-    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-</templateSet>

@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Groovy" />
+      <blacklist language="Java">
+        <added pattern="com.stc.scheduler.logic.QueueFillerUnitTest.asMap(oddTaskIdevenPriority)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
