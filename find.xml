@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[pooler] - ...\pooler\src\main\java\com\stc\trawl\pooler\BioModelMapper.java'" />
-    <option name="defaultScopeName" value="File '[pooler] - ...\pooler\src\main\java\com\stc\trawl\pooler\BioModelMapper.java'" />
+    <option name="customScope" value="File '[pooler.ignite.server] - ...\pooler.ignite.server\src\main\java\com\stc\trawl\pooler\repository\ignite\server\DelegatingCacheService.java'" />
+    <option name="defaultScopeName" value="File '[pooler.ignite.server] - ...\pooler.ignite.server\src\main\java\com\stc\trawl\pooler\repository\ignite\server\DelegatingCacheService.java'" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[pooler] - ...\pooler\src\main\java\com\stc\trawl\pooler\BioModelMapper.java'" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[pooler.ignite.server] - ...\pooler.ignite.server\src\main\java\com\stc\trawl\pooler\repository\ignite\server\DelegatingCacheService.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
