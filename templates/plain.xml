@@ -1,0 +1,7 @@
+<templateSet group="plain">
+  <template name="psvm" value="public static void main(String[] args) {&#10;    $END$&#10;}" description="Java main method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
