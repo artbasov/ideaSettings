@@ -13,11 +13,6 @@
   <template name="ctrue" value="&lt;code&gt;true&lt;/code&gt;" description="puts true in a comment section" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="fixme" value="// FIXME: $date$ $todo$" description="adds // FIXME" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="noop" value="/* no-op */" description="indicate that a method does not have any operations" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
