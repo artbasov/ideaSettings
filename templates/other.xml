@@ -1,11 +1,11 @@
 <templateSet group="other">
   <template name="log" value="private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger($CLASS$.class);" description="Inserts psf LOG field with Slf4j Logger with this class name logger" toReformat="true" toShortenFQNames="true">
-      <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
-      <context>
-        <option name="GROOVY_DECLARATION" value="true" />
-        <option name="JAVA_DECLARATION" value="true" />
-      </context>
-    </template>
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
   <template name="td" value="// TODO $USER$: $SELECTION$" description="adds todo commentary entry with current author" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
     <context>
