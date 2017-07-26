@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Libs" />
-    <option name="defaultScopeName" value="Libs" />
-    <option name="SEARCH_SCOPE" value="Libs" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.po</mask>
       <mask>**/*.pom</mask>
