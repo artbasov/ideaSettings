@@ -6,8 +6,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="td" value="// TODO $USER$: $SELECTION$" description="adds todo commentary entry with current author" toReformat="false" toShortenFQNames="true">
-    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+  <template name="td" value="// TODO Artёm Basov: $SELECTION$" description="adds todo commentary entry with current author" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
