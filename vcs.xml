@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/olivergierke/sos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hongfuli/simplecal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\GitHub" />
