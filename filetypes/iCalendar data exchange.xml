@@ -8,7 +8,7 @@
       <option name="NUM_POSTFIXES" value="" />
     </options>
     <keywords keywords="begin;end" ignore_case="true" />
-    <keywords2 keywords="valert;vcalendar;vevent;vfreebusy;vjournal;vtimezone;vtodo" />
+    <keywords2 keywords="valarm;vcalendar;vevent;vfreebusy;vjournal;vtimezone;vtodo" />
     <keywords3 keywords="action;attach;attendee;calscale;categories;class;comment;completed;contact;created;description;dtend;dtstamp;dtstart;due;duration;exdate;exrule;freebusy;geo;last-modified;location;method;organizer;percent-complete;priority;prodid;rdate;recurrence-id;related-to;repeat;resources;rrule;sequence;status;summary;transp;trigger;tzid;tzname;tzoffsetfrom;tzoffsetto;tzurl;uid;url;version" />
     <keywords4 keywords="altrep=;cn=;cutype=;delegated-from=;delegated-to=;dir=;encoding=;fbtype=;fmttype=;language=;member=;partstat=;range=;related=;reltype=;role=;rsvp=;sent-by=;tzid=;value=" />
   </highlighting>
