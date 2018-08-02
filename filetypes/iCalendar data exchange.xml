@@ -1,0 +1,17 @@
+<filetype binary="false" description="iCalendar data exchange" name="iCalendar data exchange">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="begin;end" ignore_case="true" />
+    <keywords2 keywords="valert;vcalendar;vevent" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="ics" />
+  </extensionMap>
+</filetype>

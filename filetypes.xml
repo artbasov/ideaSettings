@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping ext="geojson" type="JSON" />
+      <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
+      <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
       <mapping pattern="clear" type="PLAIN_TEXT" />
-      <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
-      <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
