@@ -54,9 +54,13 @@
           <option name="url" value="https://github.com/ksokol/carldav.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dmfs/lib-recur.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\MyCollected" />
+    <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\GitHub" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\ABasov\Documents" />
