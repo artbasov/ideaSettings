@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="e09ce186-6cb6-477b-8496-a3aeb8238863" name="artbasov">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
     <option name="CONNECTION_TIMEOUT" value="10000" />

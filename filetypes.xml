@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping ext="geojson" type="JSON" />
-      <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
-      <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
       <mapping pattern="clear" type="PLAIN_TEXT" />
-      <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
