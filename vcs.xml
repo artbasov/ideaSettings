@@ -66,9 +66,17 @@
           <option name="url" value="https://github.com/aws/aws-sdk-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="basov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/servus-venture/servus-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\GitHub" />
+    <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\RepairSmith" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\ABasov\Documents" />
