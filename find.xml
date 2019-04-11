@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\consumer-service\src\main\java\com\servus\consumer\service\impl\RepairRequestSubmitterImpl.java [servus-backend.consumer-service.main]'" />
-    <option name="defaultScopeName" value="File '...\consumer-service\src\main\java\com\servus\consumer\service\impl\RepairRequestSubmitterImpl.java [servus-backend.consumer-service.main]'" />
-    <option name="SEARCH_SCOPE" value="File '...\consumer-service\src\main\java\com\servus\consumer\service\impl\RepairRequestSubmitterImpl.java [servus-backend.consumer-service.main]'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
