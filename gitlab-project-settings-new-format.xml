@@ -1,5 +1,243 @@
 <application>
   <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/content-pages.git" />
+          <option name="name" value="content-pages" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/content-pages.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/data-experiments.git" />
+          <option name="name" value="data-experiments" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/data-experiments.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/data-segment-webhook.git" />
+          <option name="name" value="data-segment-webhook" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/data-segment-webhook.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/deploy-to-eks.git" />
+          <option name="name" value="deploy-to-eks" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/deploy-to-eks.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/devops.git" />
+          <option name="name" value="devops" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/devops.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/eda.git" />
+          <option name="name" value="eda" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/eda.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/eng-dashboard.git" />
+          <option name="name" value="eng-dashboard" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/eng-dashboard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/eng-dashboard-api.git" />
+          <option name="name" value="eng-dashboard-api" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/eng-dashboard-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/fb-chat-test.git" />
+          <option name="name" value="fb-chat-test" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/fb-chat-test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/gitlab-runner.git" />
+          <option name="name" value="gitlab-runner" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/gitlab-runner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/helm-ci.git" />
+          <option name="name" value="helm-ci" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/helm-ci.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/initial-poc.git" />
+          <option name="name" value="initial-poc" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/initial-poc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/lambda-to-mqtt.git" />
+          <option name="name" value="lambda-to-mqtt" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/lambda-to-mqtt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/landing-page-backend.git" />
+          <option name="name" value="landing-page-backend" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/landing-page-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/landing-page-test.git" />
+          <option name="name" value="landing-page-test" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/landing-page-test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/log-transformer.git" />
+          <option name="name" value="log-transformer" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/log-transformer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/ms-arch-demos.git" />
+          <option name="name" value="ms-arch-demos" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/ms-arch-demos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/nexus-iq-scanner.git" />
+          <option name="name" value="nexus-iq-scanner" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/nexus-iq-scanner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/node-sass.git" />
+          <option name="name" value="node-sass" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/node-sass.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/ops-puppet.git" />
+          <option name="name" value="ops-puppet" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/ops-puppet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/ops-tf-modules.git" />
+          <option name="name" value="ops-tf-modules" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/ops-tf-modules.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/ops-tf-shared.git" />
+          <option name="name" value="ops-tf-shared" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/ops-tf-shared.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/python-aws-cli.git" />
+          <option name="name" value="python-aws-cli" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/python-aws-cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/qa_automation.git" />
+          <option name="name" value="qa_automation" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/qa_automation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/rancher-gitlab-deploy.git" />
+          <option name="name" value="rancher-gitlab-deploy" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/rancher-gitlab-deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/random-tools.git" />
+          <option name="name" value="Random-Tools" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/random-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/repairsmith-tools.git" />
+          <option name="name" value="repairsmith-tools" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/repairsmith-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/kinesis-agent-alpine.git" />
+          <option name="name" value="Services Base Docker Image" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/kinesis-agent-alpine.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/servus-backend.git" />
+          <option name="name" value="servus-backend" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/servus-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/servus-config.git" />
+          <option name="name" value="servus-config" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/servus-config.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/servus-consumer.git" />
+          <option name="name" value="servus-consumer" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/servus-consumer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/servus-isp.git" />
+          <option name="name" value="servus-isp" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/servus-isp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/servus-universal.git" />
+          <option name="name" value="servus-universal" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/servus-universal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/servus-vpn.git" />
+          <option name="name" value="servus-vpn" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/servus-vpn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/ServusTreeCreator.git" />
+          <option name="name" value="ServusTreeCreator" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/ServusTreeCreator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/shopbossingester.git" />
+          <option name="name" value="ShopBossIngester" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/shopbossingester.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/sonar-scanner.git" />
+          <option name="name" value="sonar-scanner" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/sonar-scanner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/sonarcube.git" />
+          <option name="name" value="sonarcube" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/sonarcube.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/servus-venture/terraform-initial.git" />
+          <option name="name" value="terraform-initial" />
+          <option name="namespace" value="Servus" />
+          <option name="sshUrl" value="git@gitlab.com:servus-venture/terraform-initial.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="gitlabServers">
       <list>
         <GitlabServer>
