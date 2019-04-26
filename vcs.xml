@@ -90,6 +90,9 @@
     </option>
     <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\RepairSmith" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\ABasov\Documents" />
   </component>
