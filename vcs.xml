@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/inventure/Atlas_Surveys.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inventure/Atlas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\Tala" />
