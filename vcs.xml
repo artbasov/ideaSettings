@@ -122,6 +122,14 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="artem-basov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inventure/Account_Service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inventure/Provider_Mediator_Service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\Tala" />
