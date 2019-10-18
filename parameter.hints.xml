@@ -1,10 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Groovy" />
       <blacklist language="Java">
         <added pattern="com.stc.scheduler.logic.QueueFillerUnitTest.asMap(oddTaskIdevenPriority)" />
       </blacklist>
+      <blacklist language="Groovy" />
     </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
