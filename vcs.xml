@@ -146,6 +146,14 @@
           <option name="url" value="https://stash.natera.com/scm/stats/cloud-model.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.natera.com/scm/stats/pipeline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.natera.com/scm/stats/iris.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\Natera" />
