@@ -5,6 +5,10 @@
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="horizonPipeline" type="JSON" />
+      <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
+      <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
+      <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
