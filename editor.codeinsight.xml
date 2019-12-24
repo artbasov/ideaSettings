@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
-    <EXCLUDED_PACKAGE NAME="org.codehaus.jackson" />
-    <EXCLUDED_PACKAGE NAME="org.gradle.internal.impldep" />
-  </component>
-</application>
