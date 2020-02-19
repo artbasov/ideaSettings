@@ -9,6 +9,7 @@
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
