@@ -5,14 +5,14 @@
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
-      <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
       <mapping pattern="H274_disease_profile_config" type="JSON" />
+      <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
+      <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
-      <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
@@ -20,9 +20,9 @@
       <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
       <mapping pattern="clear" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
+      <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
