@@ -6,6 +6,7 @@
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
       <mapping pattern="H274_disease_profile_config" type="JSON" />
+      <mapping pattern="PIPE-3805_report" type="JSON" />
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
       <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
