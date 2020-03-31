@@ -5,6 +5,7 @@
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
+      <mapping pattern="H274_all_pcr_primers" type="JSON" />
       <mapping pattern="H274_disease_profile_config" type="JSON" />
       <mapping pattern="PIPE-3805_report" type="JSON" />
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
