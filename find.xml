@@ -13,5 +13,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
