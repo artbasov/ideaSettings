@@ -10,6 +10,7 @@
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
       <mapping pattern="H274_all_pcr_primers" type="JSON" />
