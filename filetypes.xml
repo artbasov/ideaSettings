@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
+      <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
@@ -12,7 +13,6 @@
       <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
-      <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
       <mapping pattern="H27_homologous_target_remap" type="JSON" />
@@ -21,8 +21,8 @@
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
