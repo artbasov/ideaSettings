@@ -12,6 +12,7 @@
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
       <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
