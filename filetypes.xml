@@ -16,6 +16,7 @@
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="H27_pGBA_target_set" type="JSON" />
+      <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
       <mapping pattern="H27_homologous_target_remap" type="JSON" />
