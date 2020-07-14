@@ -24,6 +24,7 @@
       <mapping pattern="PIPE-3805_report" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping ext="geojson" type="JSON" />
+      <mapping ext="0_target_set" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
