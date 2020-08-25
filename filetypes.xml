@@ -2,26 +2,27 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
-      <mapping pattern="H274_pGBA_target_remap" type="JSON" />
       <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
-      <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
-      <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
-      <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="H274_all_pcr_primers" type="JSON" />
-      <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
-      <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
-      <mapping pattern="H27_homologous_target_remap" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
-      <mapping pattern="H274_disease_profile_config" type="JSON" />
       <mapping pattern="PIPE-3805_report" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
+      <mapping pattern="H274_pGBA_target_remap" type="JSON" />
+      <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
+      <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
+      <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
+      <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H27_homologous_target_remap" type="JSON" />
+      <mapping pattern="H274_disease_profile_config" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -47,7 +48,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
     </extensionMap>
   </component>
 </application>
