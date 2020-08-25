@@ -18,8 +18,8 @@
       <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping pattern="H274_disease_profile_config" type="JSON" />
       <mapping pattern="PIPE-3805_report" type="JSON" />
-      <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
+      <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
@@ -28,8 +28,8 @@
       <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="clear" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
+      <mapping pattern="clear" type="PLAIN_TEXT" />
       <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
