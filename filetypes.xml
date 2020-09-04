@@ -37,6 +37,7 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
