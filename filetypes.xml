@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
+      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
@@ -26,6 +27,13 @@
       <mapping pattern="H274_disease_profile_config" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
       <mapping ext="geojson" type="JSON" />
+      <removed_mapping pattern="bowerrc" type="JSON" />
+      <removed_mapping pattern=".stylelintrc" type="JSON" />
+      <removed_mapping pattern=".babelrc" type="JSON" />
+      <removed_mapping pattern=".eslintrc" type="JSON" />
+      <removed_mapping pattern="jest.config" type="JSON" />
+      <removed_mapping ext="jsb3" type="JSON" />
+      <removed_mapping ext="jsb2" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
@@ -42,9 +50,17 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".node-version" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
