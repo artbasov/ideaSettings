@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="DEBUGGING.adoc" type="AsciiDoc" />
       <mapping ext="bcl" type="Binary File" />
+      <mapping ext="cbcl" type="Binary File" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
