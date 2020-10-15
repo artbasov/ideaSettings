@@ -10,29 +10,30 @@
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
-      <mapping pattern="H274_pGBA_target_remap" type="JSON" />
       <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
-      <mapping pattern="H274_chimeric_variant" type="JSON" />
-      <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
-      <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="H274_all_pcr_primers" type="JSON" />
-      <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
-      <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
-      <mapping pattern="H27_homologous_target_remap" type="JSON" />
       <mapping pattern=".eslintrc" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
-      <mapping pattern="H274_disease_profile_config" type="JSON" />
       <mapping pattern="PIPE-3805_report" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
+      <mapping pattern="H274_pGBA_target_remap" type="JSON" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern="H274_chimeric_variant" type="JSON" />
+      <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
+      <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
+      <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
+      <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
+      <mapping pattern="H27_homologous_target_remap" type="JSON" />
+      <mapping pattern="H274_disease_profile_config" type="JSON" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern="horizonSangerSeqPipeline" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="jsb3" type="JSON" />
@@ -42,19 +43,19 @@
       <mapping pattern="asdas.sh" type="PLAIN_TEXT" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
       <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
-      <mapping pattern="clear" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
+      <mapping pattern="clear" type="PLAIN_TEXT" />
       <mapping pattern="static_resources_go_here" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmignore" type="PLAIN_TEXT" />
-      <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
