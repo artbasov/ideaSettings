@@ -35,6 +35,7 @@
       <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern="horizonSangerSeqPipeline" type="JSON" />
       <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern="NS3" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="jsb3" type="JSON" />
