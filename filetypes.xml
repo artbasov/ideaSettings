@@ -8,6 +8,7 @@
       <mapping ext="zcbcl" type="Binary File" />
       <mapping ext="cbcl" type="Binary File" />
       <mapping ext="ucbcl" type="Binary File" />
+      <mapping ext="filter" type="Binary File" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
@@ -69,6 +70,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="filter" approved="true" type="Native" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
