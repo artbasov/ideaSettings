@@ -27,8 +27,8 @@
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping pattern="H274_pGBA_target_remap" type="JSON" />
       <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern="H274_chimeric_variant" type="JSON" />
       <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
+      <mapping pattern="H274_chimeric_variant" type="JSON" />
       <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
       <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
@@ -62,7 +62,6 @@
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
