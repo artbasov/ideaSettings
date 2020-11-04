@@ -17,8 +17,11 @@
       <mapping pattern="H274_all_pcr_primers" type="JSON" />
       <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
+      <mapping pattern="horizonNgsP27NovaSeqPipeline" type="JSON" />
       <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern="horizonNgsSampleLP" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
+      <mapping pattern="seqMetricsNextSeqHorizon" type="JSON" />
       <mapping pattern="PIPE-3805_report" type="JSON" />
       <mapping pattern="horizonDemuxConfig" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
@@ -37,6 +40,7 @@
       <mapping pattern="bowerrc" type="JSON" />
       <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern="horizonSangerSeqPipeline" type="JSON" />
+      <mapping pattern="seqMetricsNovaSeqHorizon" type="JSON" />
       <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="NS3" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
