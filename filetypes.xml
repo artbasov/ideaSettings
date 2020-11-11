@@ -14,8 +14,8 @@
       <mapping pattern="H27_disease_profile_config" type="JSON" />
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
       <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
-      <mapping pattern="H274_all_pcr_primers" type="JSON" />
       <mapping pattern="H27_pGBA_target_set" type="JSON" />
+      <mapping pattern="H274_all_pcr_primers" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
       <mapping pattern="horizonNgsP27NovaSeqPipeline" type="JSON" />
       <mapping pattern=".eslintrc" type="JSON" />
@@ -31,8 +31,8 @@
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping pattern="H274_pGBA_target_remap" type="JSON" />
       <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern="H274_chimeric_variant" type="JSON" />
       <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
+      <mapping pattern="H274_chimeric_variant" type="JSON" />
       <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
       <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
