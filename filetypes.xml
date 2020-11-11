@@ -33,6 +33,7 @@
       <mapping pattern="jest.config" type="JSON" />
       <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
       <mapping pattern="H274_chimeric_variant" type="JSON" />
+      <mapping pattern="H274_snv_variant_filter" type="JSON" />
       <mapping pattern="H274_HT_HTH_HBA_target_set" type="JSON" />
       <mapping pattern="H274_homopolymer_stretch_target_set" type="JSON" />
       <mapping pattern="H27_ngs_test_regular_vcf_reflex_filter" type="JSON" />
