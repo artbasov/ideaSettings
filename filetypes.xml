@@ -44,6 +44,7 @@
       <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern="horizonSangerSeqPipeline" type="JSON" />
       <mapping pattern="seqMetricsNovaSeqHorizon" type="JSON" />
+      <mapping pattern="H274_2TCaller_excluded_target_set" type="JSON" />
       <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="NS3" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
@@ -77,6 +78,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="filter" approved="true" type="Native" />
+      <removed_mapping pattern="H274_2TCaller_excluded_target_set" approved="true" type="JavaScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
