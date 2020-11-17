@@ -26,10 +26,12 @@
       <mapping pattern="horizonDemuxConfig" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
       <mapping pattern="H27_iris_classification_no_reflex_filter" type="JSON" />
+      <mapping pattern="nextSeqVariantConfidenceCalculator" type="JSON" />
       <mapping pattern="horizonNgsP295NovaSeqPipeline" type="JSON" />
       <mapping pattern="H274_indel_variant_filter" type="JSON" />
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
+      <mapping pattern="novaSeqVariantConfidenceCalculator" type="JSON" />
       <mapping pattern="H274_pGBA_target_remap" type="JSON" />
       <mapping pattern="jest.config" type="JSON" />
       <mapping pattern="H274_nomenclature_variant_profile" type="JSON" />
