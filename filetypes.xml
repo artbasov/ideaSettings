@@ -50,6 +50,7 @@
       <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="NS3" type="JSON" />
       <mapping ext="0_target_set" type="JSON" />
+      <mapping ext="adjusted_base_count_summary" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="jsb3" type="JSON" />
       <mapping ext="jsb2" type="JSON" />
