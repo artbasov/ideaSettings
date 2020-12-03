@@ -22,6 +22,7 @@
       <mapping pattern="horizonNgsSampleLP" type="JSON" />
       <mapping pattern="horizonNgsTest" type="JSON" />
       <mapping pattern="seqMetricsNextSeqHorizon" type="JSON" />
+      <mapping pattern="novaSeq2tCaller" type="JSON" />
       <mapping pattern="PIPE-3805_report" type="JSON" />
       <mapping pattern="horizonDemuxConfig" type="JSON" />
       <mapping pattern="H27_pseudo_target_set" type="JSON" />
