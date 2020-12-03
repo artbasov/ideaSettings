@@ -29,6 +29,7 @@
       <mapping pattern="nextSeqVariantConfidenceCalculator" type="JSON" />
       <mapping pattern="horizonNgsP295NovaSeqPipeline" type="JSON" />
       <mapping pattern="H274_indel_variant_filter" type="JSON" />
+      <mapping pattern="nextSeq2tCaller" type="JSON" />
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
       <mapping pattern="novaSeqVariantConfidenceCalculator" type="JSON" />
