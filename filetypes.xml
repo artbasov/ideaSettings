@@ -15,6 +15,7 @@
       <mapping pattern="horizonNgsP27SeqPipeline" type="JSON" />
       <mapping pattern="H27_good_snp_reflex_target_set" type="JSON" />
       <mapping pattern="jobInstanceProfile" type="JSON" />
+      <mapping pattern="H27_multi_gene_target_set" type="JSON" />
       <mapping pattern="H27_pGBA_target_set" type="JSON" />
       <mapping pattern="H274_all_pcr_primers" type="JSON" />
       <mapping pattern="horizonPipeline" type="JSON" />
