@@ -170,9 +170,13 @@
           <option name="url" value="https://github.com/broadinstitute/gatk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/artbasov/dx-toolkit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects" />
+    <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\GitHub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
