@@ -199,5 +199,6 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/Users/ABasov/Documents" />
+    <option name="SHOW_LST_ERROR_STRIPE_MARKERS" value="false" />
   </component>
 </application>
