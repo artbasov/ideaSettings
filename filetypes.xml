@@ -9,9 +9,9 @@
       <mapping ext="cbcl" type="Binary File" />
       <mapping ext="ucbcl" type="Binary File" />
       <mapping ext="filter" type="Binary File" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="horizonNgsCNVSeqPipeline" type="JSON" />
       <mapping pattern="H27_disease_profile_config" type="JSON" />
@@ -37,8 +37,8 @@
       <mapping pattern="H274_indel_variant_filter" type="JSON" />
       <mapping pattern="nextSeq2tCaller" type="JSON" />
       <mapping pattern="H274_all_pcr_primers_target_set" type="JSON" />
-      <mapping pattern="nextSeqTwoThresholdCaller" type="JSON" />
       <mapping pattern="horizonNgsP295SeqPipeline" type="JSON" />
+      <mapping pattern="nextSeqTwoThresholdCaller" type="JSON" />
       <mapping pattern="novaSeqTwoThresholdCaller" type="JSON" />
       <mapping pattern="novaSeqVariantConfidenceCalculator" type="JSON" />
       <mapping pattern="H274_pGBA_target_remap" type="JSON" />
@@ -88,7 +88,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="bam" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
