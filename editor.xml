@@ -8,14 +8,29 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="JAVA" value="true" />
+        <entry key="AsciiDoc" value="true" />
+        <entry key="CSS" value="true" />
+        <entry key="Groovy" value="false" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
+        <entry key="JAVA" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="JSP" value="true" />
+        <entry key="JSPX" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="SQL" value="true" />
+        <entry key="VTL" value="true" />
+        <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
