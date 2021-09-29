@@ -194,6 +194,14 @@
           <option name="url" value="https://stash.natera.com/scm/doc/bamboo-agent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.natera.com/projects/STATS/repos/vms/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.natera.com/scm/stats/vms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Taupwnz\IdeaProjects\natera" />
